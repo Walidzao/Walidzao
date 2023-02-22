@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Walidzao
 - 👀 I’m interested in Business administration, Tech and IT.
-- 🌱 I’m currently learning AI, And Web Dev
-- 💞️ I’m looking to collaborate on AI projects
+- 🌱 I’m currently learning AI, and Cloud solutions
+- 💞️ Looking to collaborate on IoT, Dev and AI projects
 - 📫 How to reach me, On linkedin = > https://www.linkedin.com/in/zaouch-walid/
 
 <!---
